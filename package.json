@@ -1,5 +1,8 @@
 {
-	"author": "Sebastian Arango",
+    "author": "Sebastian Arango",
+    "description": "Proyecto de entrenamiento, free code camp",
+    "keywords": ["freecodecamp", "study", "backend"],
+    "license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
